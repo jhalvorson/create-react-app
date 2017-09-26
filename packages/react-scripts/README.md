@@ -1,7 +1,17 @@
-# react-scripts
+# signal-react-scripts
 
-This package includes scripts and configuration used by [Create React App](https://github.com/facebookincubator/create-react-app).<br>
-Please refer to its documentation:
+To be used to kickoff all React **web** projects. 
 
-* [Getting Started](https://github.com/facebookincubator/create-react-app/blob/master/README.md#getting-started) – How to create a new app.
-* [User Guide](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md) – How to develop apps bootstrapped with Create React App.
+After you've installed `create-react-app` run `create-react-app --scripts-version signal-react-scripts`, you must be using the local NPM registry and if out of the studio you must be over the VPN.
+
+### TODO:
+
+- [] Implement SCSS
+- [] Add React Router
+- [] Publish module to local NPM registry to test
+- [] Implement Mocha and Chai, remove Jest
+- [] Build the base components
+- [] Build the base layouts
+- [] Build base views
+
+Est. time ~2-3 hours
