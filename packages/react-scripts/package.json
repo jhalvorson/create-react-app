@@ -1,14 +1,17 @@
 {
-  "name": "react-scripts",
-  "version": "1.0.13",
+  "name": "signal-react-scripts",
+  "version": "0.1.0",
   "description": "Configuration and scripts for Create React App.",
-  "repository": "facebookincubator/create-react-app",
+  "repository": "jhalvorson/create-react-app",
   "license": "MIT",
   "engines": {
     "node": ">=6"
   },
+  "publishConfig": {
+    "registry": "http://npm.i.blonde.net:4873/"
+  },
   "bugs": {
-    "url": "https://github.com/facebookincubator/create-react-app/issues"
+    "url": "https://github.com/jhalvorson/create-react-app/issues"
   },
   "files": [
     "bin",
