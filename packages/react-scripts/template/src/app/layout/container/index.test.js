@@ -1,10 +1,10 @@
 import React from 'react';
 import { shallow } from 'enzyme';
-import Title from './';
+import Container from './';
 
 /**
  * This is an example smoke test, it just renders the component
  */
 it('renders without crashing', () => {
-  shallow(<Title />);
+  shallow(<Container />);
 });

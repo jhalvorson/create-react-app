@@ -1,0 +1,10 @@
+.sig-footer {
+  display: flex;
+  flex: 1;
+  background-color: $color-text;
+  padding: 2rem;
+
+  p {
+    color: $color-white;
+  }
+}

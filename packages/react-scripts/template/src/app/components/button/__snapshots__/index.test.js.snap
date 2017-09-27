@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render some text 1`] = `
+<button
+  className="button button-primary"
+  onClick={[Function]}
+>
+  Press me!
+</button>
+`;

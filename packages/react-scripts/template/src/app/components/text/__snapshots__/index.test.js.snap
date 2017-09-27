@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render some text 1`] = `
+<p
+  className="sig-paragraph"
+>
+  Hello Jest!
+</p>
+`;
