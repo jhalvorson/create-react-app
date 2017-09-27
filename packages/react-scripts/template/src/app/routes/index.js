@@ -9,9 +9,11 @@ export default function Routes() {
     return (
         <Router>
             <div>
+            <div>
                 {/* Navigation */}
             </div>
             <Route exact path="/" component={Home} />
+            </div>
         </Router>
     );
 }
