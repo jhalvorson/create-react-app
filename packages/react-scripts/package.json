@@ -1,6 +1,6 @@
 {
   "name": "signal-react-scripts",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "description": "Configuration and scripts for Create React App.",
   "repository": "jhalvorson/create-react-app",
   "license": "MIT",
@@ -48,6 +48,7 @@
     "html-webpack-plugin": "2.29.0",
     "jest": "20.0.4",
     "node-sass": "^4.5.3",
+    "normalize.css": "^7.0.0",
     "object-assign": "4.1.1",
     "postcss": "^6.0.12",
     "postcss-flexbugs-fixes": "3.2.0",
@@ -66,8 +67,8 @@
     "whatwg-fetch": "2.0.3"
   },
   "devDependencies": {
-    "react": "^15.5.4",
-    "react-dom": "^15.5.4"
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0"
   },
   "optionalDependencies": {
     "fsevents": "1.1.2"
