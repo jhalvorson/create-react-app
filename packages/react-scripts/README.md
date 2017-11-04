@@ -1,7 +1,3 @@
-# Signal React Scripts
-
-To be used to kickoff React **web** projects, both internal and for clients.
-
 ### Setup 
 
 1. install`create-react-app` globally on your machine 
